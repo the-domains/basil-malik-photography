@@ -1,6 +1,6 @@
 name: Basil-Malik Photography
 favicon: null
-layout_spectrum: 0.76594
+layout_spectrum: 1
 typography_spectrum: 0.13584
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#8a8a8a'
     - '#e8e8e8'
     - '#bbbbbb'
-  brandStrength: 0.1875
-  lightness: 1
-  saturation: 0
+  brandStrength: 0
+  lightness: 0.9375
+  saturation: 0.5
   rhythmicContrast: 0
 purpose: []
